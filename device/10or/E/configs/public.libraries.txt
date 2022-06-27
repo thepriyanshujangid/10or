@@ -1,0 +1,10 @@
+libqti-perfd-client.so
+libadsprpc.so
+libcdsprpc.so
+libsdsprpc.so
+libqvrservice_client.so
+libvraudio_client.so
+libsensor_test.so
+libsensor_thresh.so
+libsensor_reg.so
+libOpenCL.so
